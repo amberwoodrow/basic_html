@@ -1,0 +1,14 @@
+.wrapper {
+  text-align: center;
+}
+.bordered-box {
+  width: 50%;
+  margin: 0 auto;
+  border: solid;
+  height: 450px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: magenta;
+}
