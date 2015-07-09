@@ -1,0 +1,47 @@
+ul {
+    list-style-type: none;
+    display: block;
+    border: solid;
+    height: 30px;
+    margin: 0;
+    padding-left: 0;
+}
+
+li {
+  float: left;
+  padding: 5px 20px 0 20px;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  color: orange;
+  margin-left: 15px;
+}
+
+input[type=text] {
+  border: solid;
+  width: 285px;
+  padding: 5px 0px 5px 0px;
+}
+
+label {
+  width: 50px;
+  display: inline-block;
+  color: purple;
+}
+
+label[for="colorado"] {
+  width: 127px;
+}
+
+input[type="submit"] {
+  border: solid;
+  background-color: orange;
+}
+
+form {
+  margin-left: 30px;
+}
